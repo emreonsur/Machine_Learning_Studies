@@ -6,7 +6,7 @@ This folder contains materials for the Youtube tutorial titled **"Machine Learni
 
 ### Contents
 
-- **Tutorial Material**s: One Jupyter notebook called (`main`.ipynb) demonstrating the concepts held in the tutorial and one dataset (`house_prices.csv`) can be found in this folder.
+- **Tutorial Material**s: One Jupyter notebook called (`main`.ipynb) demonstrating the concepts held in the tutorial, another Jupyter notebook (practice.ipynb) for writing the code in the `main.ipynb` from scratch to practice and one dataset (`house_prices.csv`) can be found in this folder.
 - **Exercise Materials**: The dataset for the exercise (`car_prices.csv`), my work on it (`my_work.py`) and the instructors solution (`solution.ipynb`) are in the `Exercises/` folder.
 
 ## Source
